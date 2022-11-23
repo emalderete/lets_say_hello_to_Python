@@ -2,7 +2,7 @@
 # Hola mundo (mensaje mostrado por consola)
 # El punto de interrupción del VS Code permite interrumpir la ejecución del código, es muy útil para hacer debug.
 
-print('Hello World!');
+print('Hello World!')
 
 """
 Este sería un comentario
@@ -28,12 +28,12 @@ type(5) será igual a <class 'int'>
 type(1.5) será igual a <class 'float'>
 type(False) será igual a <class 'bool'>
 '''
-print(type('Hello Python!'));
-print(type(5));
-print(type(1.5));
-print(type(False));
+print(type('Hello Python!'))
+print(type(5))
+print(type(1.5))
+print(type(False))
 
 # Los números complejos serían números imaginarios
 # El resultado sería <class 'complex'>
 
-print(type(3 + 1j));
+print(type(3 + 1j))
